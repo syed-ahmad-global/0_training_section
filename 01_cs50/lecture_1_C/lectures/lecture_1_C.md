@@ -825,9 +825,3 @@ causing systems to interpret the time as **December 13, 1901**.
 ────────────────────────────────────
 
 _"CS50 is about empowering you with solutions to these problems. See you next time."_
-
-```
-
-
-http://googleusercontent.com/youtube_content/2
-```
